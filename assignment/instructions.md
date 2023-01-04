@@ -1,13 +1,14 @@
 ## Introduction to Github, Git, and Rmarkdown
 
-1. Create a GitHub user account at https://github.com, if you don't already have one.  [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice)
-2. Go to Rstudio and in the terminal (Shell) that is located on the bottom left pane enter the following two commands (replacing the user.email and user.name with the email used for GitHub and your GitHub user name.  You can learn more about the command [here](https://happygitwithr.com/hello-git.html#hello-git)
+1. Create a GitHub user account at https://github.com, if you don't already have one.  [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical.
+2. Go to Rstudio and install the `usethis` package. 
 ```
-  git config --global user.email "you@example.com"
+install.packages("usethis")
 ```
-and
+3. Run the following command where you replace the user.email and user.name with the email used for GitHub and your GitHub user name.  You can learn more about the command [here](https://happygitwithr.com/hello-git.html#hello-git)
 ```
-  git config --global user.name "Your Name"
+library(usethis)
+use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
 ```
 3. Set up your GitHub creditials on your computer.  Follow the instructions [here](https://happygitwithr.com/https-pat.html#tldr) about using `usethis::create_github_token()` and `gitcreds::gitcreds_set()` functions.  Also, save your GitHub PAT to a password manager so that you can find in the future (in case you need to interact with GitHub from a different computer).
 4. Go to Canvas and get the link to accept the assignment.  Copy and paste the link in a webbrowser.  Accept the assignment.
@@ -22,3 +23,5 @@ and
 10. Knit (found on the top left pane) the document a to github_document
 11. Commit the Rmd and md documents to git.
 12. Push to your repository on GitHub.  You will be prompted for your user name (or email) and your password.
+
+If you are having issues (i.e., your compute does not seem to have Git installed), [here](https://happygitwithr.com/index.html) is an excellent resource to help you debug your git + Rstudio issues.
