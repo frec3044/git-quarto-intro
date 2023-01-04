@@ -7,7 +7,7 @@
 4. Open Rstudio on your computer and create a new project. First, File -> New Project -> Version Control -> Git.  Paste the URL from you repo in the first box, hit tab to fill in the repo name in the second, and then use Browse to select where you want the project on your computer (I recommend having a directory on your computer where you keep all the assignments for the class).
 5. Your prject will load.  Then go to New -> New File -> Rmarkdown... 
 6. In the prompt use Title =  "Assignment 1" and Author = [Your name]
-7. Save file as "assignment1.Rmd"
+7. Save file as "assignment1.Rmd" in the assignment subdirectory of the Project.
 8. Commit to your Rmd file using the Git tab at the top right pane using a useful commit message. If this is the first time using Git on your computer, then you will need to provide your email (the you used to create a GitHub account) and username (your GitHub user name) to the terminal.  Paste the following in your terminal (the terminal tab is on the bottom left pane).
 ```
   git config --global user.email "you@example.com"
