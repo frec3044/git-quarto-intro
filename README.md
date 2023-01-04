@@ -1,7 +1,18 @@
-# Introduction to Github, Git, and Rmarkdown
+This repository is a template for every teams introduction to Git, GitHub, and Rmarkdownrepository. This is the first module of FREC 3044 Environmental Data Science, intended to set students set up in Git and GitHub on their local computers.
 
-We will be using GitHub classroom to distribute and submit assignments.  You accepting assignments, which creates GitHub repositories ("repos") in the frec-3044 organization https://github.com/frec-3044.  Your repos are private so that only you and and the instructor can see it.  You will be expected to make numerous commits to your repo for each assignment, including the final commit that will be graded.  This assignment walks you through the steps required to start and complete the other assistments in the course.
+## assignment
 
-The assignment is located in the instructions.md file in the assignments subdirectory
+All work for this assignment is in the `assignment` directory.  Student will generate their own Rmarkdown files so the assignment is contained in a markdown file called `instructions.md`. The general rubric you will be graded on is found in the `rubric.md` file. 
 
- Jennifer Bryan has created an excellent users guide for working with Git and GitHub within Rstudio.  It can be found [here](https://happygitwithr.com/index.html)
+## Special files
+
+Additionally this repository, and all team repositories, includes most of the special files found here:
+
+### Common files
+
+- `README.md` this file, a general overview of the repository in markdown format.  
+- `lesson.md` a description of the assignment.
+- `.gitignore` Optional file, ignore common file types we don't want to accidentally commit to GitHub. Most projects should use this. 
+- `git-rmd-intro-template.Rproj` an R-Project file created by RStudio for it's own configuration of the repo files.  Some people prefer to `.gitignore` this file, it is optional for team repos to ignore or commit their own `<REPO-NAME>.Rproj` file. 
+
+
