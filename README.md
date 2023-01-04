@@ -12,13 +12,13 @@ We will be using GitHub classroom to distribute and submit assignments.  You acc
 7. Save file as "assignment1.Rmd"
 8. Commit to your Rmd file using the Git tab at the top right pane using a useful commit message. If this is the first time using Git on your computer, then you will need to provide your email (the you used to create a GitHub account) and username (your GitHub user name) to the terminal.  Paste the following in your terminal (the terminal tab is on the bottom left pane).
 ```
-add code
+  git config --global user.email "you@example.com"
 ```
 and
 ```
-add code
+  git config --global user.name "Your Name"
 ```
 9. Change output to `github_document`
 10. Knit (found on the top left pane) the document a to github_document
 11. Commit the Rmd and md documents to git.
-12. Push to your repository on GitHub.  You will be prompted for your user name (or email) and your password.  You GitHub password is [add info for setting up creds]
+12. Push to your repository on GitHub.  You will be prompted for your user name (or email) and your password.
