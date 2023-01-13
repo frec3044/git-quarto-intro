@@ -12,7 +12,8 @@ Additionally this repository, and all team repositories, includes most of the sp
 
 - `README.md` this file, a general overview of the repository in markdown format.  
 - `lesson.md` a description of the assignment.
+- `rubic.md` a description of the evaluation criteria
 - `.gitignore` Optional file, ignore common file types we don't want to accidentally commit to GitHub. Most projects should use this. 
-- `git-rmd-intro-template.Rproj` an R-Project file created by RStudio for it's own configuration of the repo files.  Some people prefer to `.gitignore` this file, it is optional for team repos to ignore or commit their own `<REPO-NAME>.Rproj` file. 
+- `*.Rproj` an R-Project file created by RStudio for it's own configuration of the repo files.  Some people prefer to `.gitignore` this file, it is optional for team repos to ignore or commit their own `<REPO-NAME>.Rproj` file. 
 
 
