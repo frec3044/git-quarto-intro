@@ -1,4 +1,4 @@
-This repository is a template for every teams introduction to Git, GitHub, and Rmarkdownrepository. This is the first module of FREC 3044 Environmental Data Science, intended to set students set up in Git and GitHub on their local computers.
+This repository is a template for every teams introduction to Git, GitHub, and Rmarkdown repository. This is the first module of FREC 3044 Environmental Data Science, intended to set students set up in Git and GitHub on their local computers.
 
 ## assignment
 
