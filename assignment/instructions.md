@@ -15,7 +15,7 @@ use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
 5. Go to assignment at https://github.com/frec-3044.  Click on repository
 6. Under the green "Code" button, select the local tab, and copy the https link.
 7. Open Rstudio on your computer and create a new project. First, File -> New Project -> Version Control -> Git.  Paste the URL from you repo in the first box, hit tab to fill in the repo name in the second, and then use Browse to select where you want the project on your computer (I recommend having a directory on your computer where you keep all the assignments for the class).
-8. Your prject will load.  Then go to New -> New File -> Rmarkdown... 
+8. Your project will load.  Then go to New -> New File -> Rmarkdown... 
 9. In the prompt use Title =  "Assignment 1" and Author = [Your name]
 10. Save file as "assignment1.Rmd" in the assignment subdirectory of the Project.
 11. Commit to your Rmd file using the Git tab at the top right pane using a useful commit message. You will need to check the box for the files that you want to commit. A useful message helps you broadly remember what you did to the files that are included in the commit.
