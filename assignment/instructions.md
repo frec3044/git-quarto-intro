@@ -25,6 +25,6 @@ If you get an error it is likely due to your computer not having Git.  Follow th
 10. Knit (found on the top left pane) the document a to github_document.  You will see a file named "assignment1.md" appear.  This is a markdown file that GitHub can easy read and convert to nice looking text.
 11. Commit the Rmd and md documents to git.
 12. Push to your repository on GitHub.
-13. Go to https://github.com/frec-3044 and click on your repository. Find your assignment1.md file and click on it.  It should look like a nicely formatted document.
+13. Go to https://github.com/frec-3044 and click on your repository. Find your assignment1.md file and click on it.  It should look like a nicely formatted document. You should also see three commits: 2 were committed by you and 1 was committed by the github classroom bot.  The Github classroom bot commit is the automatic commit that occurred when you accepted the assignment.
 
-If you are having issues (i.e., your compute does not seem to have Git installed), [here](https://happygitwithr.com/index.html) is an excellent resource to help you debug your git + Rstudio issues.
+If you are having issues (i.e., your computer does not seem to have Git installed), [here](https://happygitwithr.com/index.html) is an excellent resource to help you debug your git + Rstudio issues.
