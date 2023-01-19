@@ -20,7 +20,7 @@ If you get an error it is likely due to your computer not having Git.  Follow th
 8. Your project will load.  Then go to File -> New -> New File -> Rmarkdown... 
 9. In the prompt use Title =  "Assignment 1" and Author = [Your name]
 10. Save file as "assignment1.Rmd" in the **assignment subdirectory** of the Project.
-11. Commit your Rmd file using the Git tab at the top right pane using a useful commit message. You will need to check the box for the files that you want to commit. A useful message helps you broadly remember what you did to the files that are included in the commit.
+11. Commit your Rmd file using the Git tab at the top right pane using a useful commit message. You will need to check the box for the files that you want to commit. A useful message helps you broadly remember what you did to the files that are included in the commit.  The Git tab may not be in the top right panel if you have moved the panels around.
 9.  The top of your Rmd has options for the type of document it creates.  It should currently say "output=html_document".  Change the output to `output=github_document`
 10. Knit (found on the top left pane) the document a to github_document.  You will see a file named "assignment1.md" appear.  This is a markdown file that GitHub can easy read and convert to nice looking text.
 11. Commit the Rmd and md documents to git.
