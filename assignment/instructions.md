@@ -22,9 +22,10 @@ If you get an error it is likely due to your computer not having Git.  Follow th
 10. Save file as "assignment1.Rmd" in the **assignment subdirectory** of the Project.
 11. Commit your Rmd file using the Git tab at the top right pane using a useful commit message. You will need to check the box for the files that you want to commit. A useful message helps you broadly remember what you did to the files that are included in the commit.  The Git tab may not be in the top right panel if you have moved the panels around.
 9.  The top of your Rmd has options for the type of document it creates.  It should currently say "output=html_document".  Change the output to `output=github_document`
-10. Knit (found on the top left pane) the document a to github_document.  You will see a file named "assignment1.md" appear.  This is a markdown file that GitHub can easy read and convert to nice looking text.
-11. Commit the Rmd and md documents to git.
-12. Push to your repository on GitHub.
-13. Go to https://github.com/frec-3044 and click on your repository. Find your assignment1.md file and click on it.  It should look like a nicely formatted document. You should also see three commits: 2 were committed by you and 1 was committed by the github classroom bot.  The Github classroom bot commit is the automatic commit that occurred when you accepted the assignment.
+10. Copy the code chunk on lines 26-28 and paste at end of document.  Change to `eval=TRUE`.
+11. Knit (found on the top left pane) the document a to github_document.  You will see a file named "assignment1.md" appear.  This is a markdown file that GitHub can easy read and convert to nice looking text.
+12. Commit the Rmd, md, png files in your `figure-gfm` directory to git.
+13. Push to your repository on GitHub.
+14. Go to https://github.com/frec-3044 and click on your repository. Find your assignment1.md file and click on it.  It should look like a nicely formatted document. You should also see three commits: 2 were committed by you and 1 was committed by the github classroom bot.  The Github classroom bot commit is the automatic commit that occurred when you accepted the assignment.
 
 If you are having issues (i.e., your computer does not seem to have Git installed), [here](https://happygitwithr.com/index.html) is an excellent resource to help you debug your git + Rstudio issues.
