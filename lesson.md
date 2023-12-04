@@ -48,3 +48,5 @@ This module has been developed as the second module in a junior-level Environmen
 ## Background Reading
 
 Jennifer Bryan has created an excellent users guide for working with Git and GitHub within Rstudio.  It can be found [here](https://happygitwithr.com/index.html)
+
+Introduction to Quarto Documents in the [R for Data Science book](https://r4ds.hadley.nz/quarto#introduction)
