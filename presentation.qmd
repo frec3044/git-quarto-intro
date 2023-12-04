@@ -1,0 +1,9 @@
+---
+title: "Intro to Git and Quarto"
+format: 
+  revealjs:
+    embed-resources: true
+editor: visual
+---
+
+## Git
