@@ -14,8 +14,9 @@ editor: visual
 ## Why Git and GitHub
 
 - Git and GitHub (or related GitLab) are widely used in data science jobs for code development and collaboration
-- Help you keep track of changes so you know what you did when.
-- Goal in class: foundations building for you to learn more as needed
+- Help you keep track of changes so you know what you did when. 
+- GitHub is back-up of your work
+- Goal in class: foundation building for you to learn more as needed
 
 ## Concepts
 
