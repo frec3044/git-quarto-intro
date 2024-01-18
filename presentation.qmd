@@ -33,7 +33,9 @@ editor: visual
 
 ## Applied to class
 
-![](img/git2.png) \## Quarto
+![](img/git2.png)
+
+## Quarto
 
 -   An open-source scientific and technical publishing system
 -   Notebooks, articles, websites, blogs, books, slides
