@@ -1,6 +1,6 @@
 ## Introduction to Github, Git, and Rmarkdown
 
-1.  Create a GitHub user account at <https://github.com>, if you don't already have one. [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical.  Email me your user name so I can associate it with your name in the grade book.
+1.  Create a GitHub user account at <https://github.com>, if you don't already have one. [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical. Email me your user name so I can associate it with your name in the grade book.
 
 2.  Go to Rstudio and install the `usethis` package.
 
@@ -33,7 +33,7 @@ If you get an error at this step it is likely due to your computer not having Gi
 
 11. Save file as "assignment1.qmd" in the **assignment subdirectory** of the Project.
 
-12. Commit your `assignment1.qmd` file using the Git tab at the top right pane using a useful commit message. You will need to check the box for the files that you want to commit. A useful message helps you broadly remember what you did to the files that are included in the commit. The Git tab may not be in the top right panel if you have moved the panels around.
+12. Commit your `assignment1.qmd` file using the Git tab at the top right pane using a useful commit message. You will need to check the box in the "staged" column for the files that you want to commit. A window will pop up where you provide a useful message helps you broadly remember what you did to the files that are included in the commit. The Git tab may not be in the top right panel if you have moved the panels around.
 
 13. Find the Sources / Visual buttons right above the document. Select Source (which is the code view).
 
@@ -56,7 +56,7 @@ format:
 16. Find the Render (found above the document) button and click it to render the document a to an html document. You will see a file named "assignment1.html" appear. The html is like webpage version of your code. If your have a directory called `assignment1_files` then you did not do step 15 correctly.
 17. Click on the "assignment1.html" in your "Files" pane and select "View in Web Browser". Confirm that it looks as expected.
 18. Commit the updated `.qmd` and new `.html` files to git.
-19. Push to your repository on GitHub.
+19. Push to your repository on GitHub. The Push button is near the Commit button in the Git Panel.
 20. Go to <https://github.com/frec-3044-Spring2024> and click on your repository. You should also see three commits: 2 were committed by you and 1 was committed by the github classroom bot. The Github classroom bot commit is the automatic commit that occurred when you accepted the assignment.
 21. Go to the course on Canvas and upload the .html file to the assignment.
 
