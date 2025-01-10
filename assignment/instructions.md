@@ -57,7 +57,7 @@ format:
 17. Click on the "assignment1.html" in your "Files" pane and select "View in Web Browser". Confirm that it looks as expected.
 18. Commit the updated `.qmd` and new `.html` files to git.
 19. Push to your repository on GitHub. The Push button is near the Commit button in the Git Panel.
-20. Go to <https://github.com/frec-3044-Spring2024> and click on your repository. You should also see three commits: 2 were committed by you, and 1 was committed by the GitHub classroom bot. The Github classroom bot commit is the automatic commit that occurred when you accepted the assignment.
+20. Go to <https://github.com/frec-3044-Spring25> and click on your repository. You should also see three commits: 2 were committed by you, and 1 was committed by the GitHub classroom bot. The Github classroom bot commit is the automatic commit that occurred when you accepted the assignment.
 21. Go to the course on Canvas and upload the .html file to the assignment.
 
 If you are having issues (e.g., your computer does not seem to have Git installed), [here](https://happygitwithr.com/index.html) is an excellent resource for debugging your git + Rstudio issues.
