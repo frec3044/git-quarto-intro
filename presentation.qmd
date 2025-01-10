@@ -51,3 +51,9 @@ editor: visual
 -   Final render of the document to HTML
 -   Commit and push HTML to GitHub
 -   Upload HTML to Canvas
+
+## Common mistakes
+
+-   HTML uploaded to Canvas but not **pushed** to GitHub (commit + push required).
+-   Version of HTML of Canvas does not match version on GitHub
+-   Images and plots do not show up on HTML on Canvas, despite you seeing them on your computer.
