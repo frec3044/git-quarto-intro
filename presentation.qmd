@@ -14,8 +14,8 @@ editor: visual
 ## Why Git and GitHub
 
 -   Git and GitHub (or related GitLab) are widely used in data science jobs for code development and collaboration
--   Help you keep track of changes so you know what you did when.
--   GitHub is back-up of your work
+-   Help you keep track of changes so you know what you did and when.
+-   GitHub is a backup of your work
 -   Goal in class: foundation building for you to learn more as needed
 
 ## Concepts
@@ -44,10 +44,10 @@ editor: visual
 
 ## Assignment workflow
 
--   Accept (e.g. fork) assignment
+-   Accept (e.g., fork) assignment
 -   Clone your accepted assignment repo to your computer
 -   Work on assignment (many commits)
 -   Push assignment to GitHub (many times - this a backup)
--   Final render of document to HTML
+-   Final render of the document to HTML
 -   Commit and push HTML to GitHub
 -   Upload HTML to Canvas
