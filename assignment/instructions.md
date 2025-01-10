@@ -21,7 +21,7 @@ If you get an error at this step, it is likely due to your computer not having G
 
 5.  Go to Canvas and get the link to accept the assignment. Copy and paste the link in a web browser. Accept the assignment.
 
-6.  Go to your assignment at <https://github.com/frec-3044-Spring2024>. Click on the repository.
+6.  Go to your assignment at <https://github.com/frec-3044-Spring25>. Click on the repository.
 
 7.  Under the green "Code" button, select the local tab and copy the https link.
 

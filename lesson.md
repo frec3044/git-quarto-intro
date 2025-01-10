@@ -26,7 +26,6 @@ We will be using GitHub Classroom to distribute and submit assignments.  You acc
 
 ## Requirements:
 
-  - `tidyverse`
   - `R`
   - RStudio
   - Git & GitHub.
