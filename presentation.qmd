@@ -29,11 +29,11 @@ editor: visual
 
 ## General concepts
 
-![](img/git1.png)
+![](img/git1.png){fig-alt="A diagram of git and github workflow."}
 
 ## Applied to class
 
-![](img/git2.png)
+![](img/git2.png){fig-alt="A diagram of git and github workflow applied to class."}
 
 ## Quarto
 
