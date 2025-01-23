@@ -1,6 +1,6 @@
 ## Introduction to Github, Git, and Rmarkdown
 
-1.  Create a GitHub user account at <https://github.com>, if you don't already have one. [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical. Please email me your user name so I can associate it with your name in the grade book.
+1.  Create a GitHub user account at <https://github.com>, if you don't already have one. [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical. Please email me your user name so I can associate it with your name in the grade book.  You are not required to use your Virginia Tech email or an identifying username if you do not want to.
 
 2.  Go to Rstudio and install the `usethis` package.
 
