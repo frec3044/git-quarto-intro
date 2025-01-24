@@ -57,3 +57,8 @@ editor: visual
 -   HTML uploaded to Canvas but not **pushed** to GitHub (commit + push required).
 -   Version of HTML of Canvas does not match version on GitHub
 -   Images and plots do not show up on HTML on Canvas, despite you seeing them on your computer.
+
+## Keys to this assignment
+
+- There will be a lot of issues.  Everyone has different computers so this is the module where all the differences are debugged.
+- Follow directions closely.  The recipe will work but you have to do it in the correct order.
