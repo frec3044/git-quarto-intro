@@ -4,15 +4,13 @@ We will be using GitHub Classroom to distribute and submit assignments.  You acc
 
 - author: Quinn Thomas (@rqthomas)
 - contact: <rqthomas@vt.edu>
-- url: 
 - date: 2023-01-03
 - license: MIT, CC-BY
 - copyright: Quinn Thomas
-- package: 
 
 ## Feedback
 
-- <https://github.com/frec3044/git-rmd-intro-template/issues>
+- <https://github.com/frec3044/git-rmd-intro/issues>
 
 ## Questions
 
@@ -21,7 +19,7 @@ We will be using GitHub Classroom to distribute and submit assignments.  You acc
 ## Objectives
 
   - Set up a GitHub account and configure it on your local computer within Rstudio
-  - Initiate, edit, and knit Rmarkdown files
+  - Initiate, edit, and render Quarto files
   - Commit and Push code to GitHub
 
 ## Requirements:
@@ -29,12 +27,13 @@ We will be using GitHub Classroom to distribute and submit assignments.  You acc
   - `R`
   - RStudio
   - Git & GitHub.
+  - Quarto
   
 ## Instructions
 
   - Open the notebook `assignment/instructions.md` in RStudio
   - Work through the exercises described in the markdown file.
-  - `knit` + commit output files to GitHub
+  - `Render` + commit output files to GitHub
   
 ## Context
 
