@@ -1,14 +1,14 @@
-This repository is a template for every teams introduction to Git, GitHub, and Rmarkdown repository. This is the first module of FREC 3044 Environmental Data Science, intended to set students set up in Git and GitHub on their local computers.
+This is a repository for the introduction to Git, GitHub, and Quarto module. This is the first module of FREC 3044 Environmental Data Science, intended to set students set up in Git and GitHub on their local computers.
 
-## assignment
+## Assignment
 
-All work for this assignment is in the `assignment` directory.  Student will generate their own Rmarkdown files so the assignment is contained in a markdown file called `instructions.md`. The general rubric you will be graded on is found in the `rubric.md` file. 
+All work for this assignment is in the `assignment` directory.  The student will generate their own Quarto files, so the assignment is contained in a markdown file called `instructions.md`. 
 
-## Special files
+## Data
 
-Additionally this repository, and all team repositories, includes most of the special files found here:
+No data are used in this assignment
 
-### Common files
+## Common files
 
 - `README.md` this file, a general overview of the repository in markdown format.  
 - `lesson.md` a description of the assignment.
