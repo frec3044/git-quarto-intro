@@ -1,8 +1,8 @@
-This is a repository for the introduction to Git, GitHub, and Quarto module. This is the first module of FREC 3044 Environmental Data Science, intended to set students set up in Git and GitHub on their local computers.
+Introduction to Git, GitHub, and Quarto module
 
 ## Assignment
 
-All work for this assignment is in the `assignment` directory.  The student will generate their own Quarto files, so the assignment is contained in a markdown file called `instructions.md`. 
+- 'assignment/instructions.md`
 
 ## Data
 
