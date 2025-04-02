@@ -17,7 +17,11 @@ library(usethis)
 use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
 ```
 
-5.  Set up your GitHub credentials on your computer. Follow the instructions [here](https://happygitwithr.com/https-pat.html#tldr) about using `usethis::create_github_token()` and `gitcreds::gitcreds_set()` functions. Be sure that your GitHub PAT doesn't expire before the end of the semester. Also, save your GitHub PAT to a password manager to find it in the future (in case you need to interact with GitHub from a different computer).
+5.  Set up your GitHub credentials on your computer. Follow the instructions [here](https://happygitwithr.com/https-pat.html#tldr) about using `usethis::create_github_token()` and `gitcreds::gitcreds_set()` functions. 
+
+IMPORTANT: Be sure that your GitHub PAT doesn't expire before the end of the semester.
+
+Also, save your GitHub PAT to a password manager to find it in the future (in case you need to interact with GitHub from a different computer).
 
 6.  Go to Canvas and get the link to accept the assignment. Copy and paste the link in a web browser. Accept the assignment.
 
