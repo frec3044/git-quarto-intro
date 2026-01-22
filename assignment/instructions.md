@@ -2,7 +2,7 @@
 
 1.  Test that you have Git on your computer. In Rstudio, find the "Terminal" tab (likely bottom right panel, second tab) and type `git`.  If text that looks like help information appears that means that you have git on your computer.  If not, then follow the instructions [here](https://happygitwithr.com/install-git.html) to installing Git.  
 
-2.  Create a GitHub user account at <https://github.com>, if you don't already have one. [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical. Please email me your user name so I can associate it with your name in the grade book.  You are not required to use your university email or an identifying username if you do not want to.
+2.  Create a GitHub user account at <https://github.com>, if you don't already have one. [Here is advice about choosing a user name](https://happygitwithr.com/github-acct.html#username-advice), because choosing a good user name is critical. You are *not* required to use your university email or an identifying username if you do not want to.
 
 3.  Go to Rstudio and install the `usethis` package.
 
@@ -25,7 +25,7 @@ IMPORTANT: Be sure that your GitHub PAT doesn't expire before the end of the sem
 
 Also, save your GitHub PAT to a password manager to find it in the future (in case you need to interact with GitHub from a different computer).
 
-6.  Go to Canvas and get the link to accept the assignment. Copy and paste the link in a web browser. Accept the assignment.
+6.  Go to Canvas and get the link to accept the assignment. Copy and paste the link in a web browser. Accept the assignment.  You may need to check your email for an email from GitHub confirming that you want to join the GitHub Classroom that is associated with the class.  This email is different from an email about accepting the assignment.
 
 7.  Go to your assignment at <https://github.com/frec-3044-Spring26>. Click on the repository.
 
