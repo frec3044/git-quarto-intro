@@ -1,4 +1,4 @@
-## Introduction to Github, Git, and Rmarkdown
+## Introduction to Github, Git, and Quarto
 
 1.  Test that you have Git on your computer. In Rstudio, find the "Terminal" tab (likely bottom right panel, second tab) and type `git`.  If text that looks like help information appears that means that you have git on your computer.  If not, then follow the instructions [here](https://happygitwithr.com/install-git.html) to installing Git.  
 

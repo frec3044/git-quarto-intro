@@ -60,5 +60,6 @@ editor: visual
 
 ## Keys to this assignment
 
-- There will be a lot of issues.  Everyone has different computers so this is the module where all the differences are debugged.
-- Follow directions closely.  The recipe will work but you have to do it in the correct order.
+-   There will be a lot of issues. Everyone has different computers so this is the module where all the differences are debugged.
+-   Follow directions closely. The recipe will work but you have to do it in the correct order.
+-   Don't forget to include your github username in the submitted document.
