@@ -65,7 +65,7 @@ format:
     embed-resources: true
 ```
 
-18. Find the Render button (found above the document)  and click it to render the document to HTML. You will see a file named "assignment1.html" appear. HTML is like a webpage version of your code. If you have a directory called `assignment1_files,` then you did not do step 15 correctly.
+18. Find the Render button (found above the document)  and click it to render the document to HTML. You will see a file named "assignment1.html" appear. HTML is like a webpage version of your code. If you have a directory called `assignment1_files,` then you did not do step 17 correctly.
 19. Click on the "assignment1.html" in your "Files" pane and select "View in Web Browser". Confirm that it looks as expected.
 20. Commit the updated `.qmd` and new `.html` files to git.
 21. Push to your repository on GitHub. The Push button is near the Commit button in the Git Panel.
