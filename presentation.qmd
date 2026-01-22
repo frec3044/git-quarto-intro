@@ -40,6 +40,7 @@ editor: visual
 -   An open-source scientific and technical publishing system
 -   Notebooks, articles, websites, blogs, books, slides
 -   Update to Rmarkdown (and very similar)
+-   Uses Markdown language.
 -   https://quarto.org
 
 ## Assignment workflow
